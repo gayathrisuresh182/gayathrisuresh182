@@ -30,6 +30,7 @@ I build end-to-end data systems — from raw ingestion to AI-powered analytics.
 `Docker` `GitHub Actions` `Git` `CI/CD Pipelines`
 **AI & ML**  
 `LangGraph` `Claude API` `Neural Networks` `Deep Learning` `PySpark`
+
 ---
 
 ### Featured projects
