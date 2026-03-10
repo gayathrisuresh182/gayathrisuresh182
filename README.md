@@ -1,6 +1,6 @@
 ## Hi, I'm Gayathri 👋
 
-**Data Engineer** · MS in Electrical & Computer Engineering @ Northeastern · Boston, MA
+**Data Engineer** · MS in Electrical & Computer Engineering specialisation in Machine Learning and Algorithms @ Northeastern · Boston, MA
 
 I build end-to-end data systems — from raw ingestion to AI-powered analytics.
 
