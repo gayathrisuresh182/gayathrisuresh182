@@ -10,20 +10,35 @@ I build end-to-end data systems — from raw ingestion to AI-powered analytics.
 
 ### What I work with
 
-**Orchestration & pipelines**  
-`Dagster` `Apache Airflow` `Apache Kafka`
+**Analytics & BI**  
+`Tableau` `Power BI` `Metabase` `Looker Studio` `KPI Dashboards`
 
-**Data & warehouses**  
-`Snowflake` `BigQuery` `PostgreSQL` `MongoDB` `dbt`
+**SQL & databases**  
+`PostgreSQL` `Snowflake` `BigQuery` `MongoDB` `MySQL` `Redshift`
 
-**Languages & analytics**  
-`Python` `SQL` `Tableau` `Metabase` `Great Expectations`
+**Data modeling**  
+`dbt (Core)` `Star Schema` `SCD Type 2` `Dimensional Modeling` `Snowflake Schema`
 
-**AI & front-end**  
-`LangGraph` `Claude API` `React` `TypeScript`
+**Statistical analysis**  
+`A/B Testing` `Hypothesis Testing` `Bayesian Analysis` `Power Analysis` `Regression`
+
+**Pipeline & orchestration**  
+`Dagster` `Apache Airflow` `Apache Kafka` `Prefect`
+
+**Cloud platforms**  
+`AWS (S3, Redshift, Glue, EC2)` `GCP (BigQuery)` `Snowflake`
+
+**Programming**  
+`Python` `SQL` `TypeScript` `Bash/Shell`
+
+**Data quality**  
+`Great Expectations` `Pydantic` `dbt Tests` `Data Profiling`
 
 **Infrastructure**  
-`Docker` `GitHub Actions` `AWS` `GCP`
+`Docker` `GitHub Actions` `Git` `CI/CD Pipelines`
+
+**AI & ML**  
+`LangGraph` `Claude API` `Neural Networks` `Deep Learning` `PySpark`
 
 ---
 
