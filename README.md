@@ -1,8 +1,8 @@
 ## Hi, I'm Gayathri 👋
 
-**Data Engineer** · MS in Electrical & Computer Engineering specialisation in Machine Learning and Algorithms @ Northeastern · Boston, MA
+**Forward Deployed Engineer** · MS in Electrical & Computer Engineering (ML & Algorithms) @ Northeastern · San Francisco, CA
 
-I build end-to-end data systems — from raw ingestion to AI-powered analytics.
+I build end-to-end AI systems and ship them to users, from data ingestion to conversational interfaces.
 
 **🔗 [Portfolio & projects → sureshgayathri.com](https://sureshgayathri.com)**
 
@@ -10,47 +10,36 @@ I build end-to-end data systems — from raw ingestion to AI-powered analytics.
 
 ### What I work with
 
+**AI & LLM systems**  
+`LangGraph` `LangChain` `RAG (Qdrant, hybrid retrieval, reranking)` `Claude API` `FastEmbed` `PyTorch` `TensorFlow`
 
-**Analytics & BI**  
-`Tableau` `Power BI` `Metabase` `Looker Studio` `KPI Dashboards`
+**Streaming & orchestration**  
+`Apache Kafka` `Dagster` `Celery` `Apache Airflow`
 
-**SQL & databases**  
-`PostgreSQL` `Snowflake` `BigQuery` `MongoDB` `MySQL` `Redshift`
+**Databases & warehouses**  
+`BigQuery` `PostgreSQL` `Snowflake` `MongoDB` `Redis` `InfluxDB` `Qdrant`
 
-**Data modeling**  
-`dbt (Core)` `Star Schema` `SCD Type 2` `Dimensional Modeling` `Snowflake Schema`
-
-**Statistical analysis**  
-`A/B Testing` `Hypothesis Testing` `Bayesian Analysis` `Power Analysis` `Regression`
-
-**Pipeline & orchestration**  
-`Dagster` `Apache Airflow` `Apache Kafka` `Prefect`
-
-**Cloud platforms**  
-`AWS (S3, Redshift, Glue, EC2)` `GCP (BigQuery)` `Snowflake`
-
-**Programming**  
-`Python` `SQL` `TypeScript` `Bash/Shell`
-
-**Data quality**  
-`Great Expectations` `Pydantic` `dbt Tests` `Data Profiling`
+**Frontend & APIs**  
+`React` `Next.js` `TypeScript` `Tailwind` `FastAPI` `Server-Sent Events`
 
 **Infrastructure**  
-`Docker` `GitHub Actions` `Git` `CI/CD Pipelines`
+`Docker` `AWS (S3, IAM)` `MinIO` `Prometheus` `Grafana` `GitHub Actions` `CI/CD`
 
-**AI & ML**  
-`LangGraph` `Claude API` `Neural Networks` `Deep Learning` `PySpark`
+**Data modeling & quality**  
+`dbt` `Star Schema` `Great Expectations` `A/B Testing` `Bayesian Analysis`
 
+**Programming**  
+`Python` `SQL` `JavaScript/TypeScript` `Bash`
 
 ---
 
 ### Featured projects
 
-| Project | Stack |
-|---------|--------|
-| **[E-Commerce Event Streaming & AI Ops](https://github.com/gayathrisuresh182/-E-COMMERCE-STREAMING-ANALYTICS-PLATFORM)** | Lambda architecture · Kafka · Dagster · BigQuery · LangGraph AI agent · 6 dashboards |
-| **[Healthcare ELT Pipeline](https://github.com/gayathrisuresh182/HealthCare_Analytics_Platform)** | Snowflake · dbt · medallion architecture · Great Expectations · 160K+ CMS records |
-| **[Customer Lifecycle Analytics](https://github.com/gayathrisuresh182/Enterprise_Analytics_Platform)** | Fuzzy dedup · multi-currency · CLV & cohorts · PostgreSQL · Airflow · Metabase |
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| **[Legal Document RAG Pipeline](https://github.com/gayathrisuresh182/legal-rag-pipeline)** | Multi-hop retrieval over SEC EDGAR contracts with 9-version metric-driven iteration | LangGraph · Qdrant · FastAPI · Next.js · Redis · Prometheus · Docker |
+| **[E-Commerce AI Operations Platform](https://github.com/gayathrisuresh182/-E-COMMERCE-STREAMING-ANALYTICS-PLATFORM)** | Lambda architecture with a conversational AI agent (11 tools) for natural-language analytics | Kafka · Dagster · BigQuery · MongoDB · LangGraph · React |
+| **[Healthcare ELT Pipeline](https://github.com/gayathrisuresh182/HealthCare_Analytics_Platform)** | Medallion architecture processing 160K+ CMS Medicare records with 97.7% test pass rate | Snowflake · dbt · AWS S3 · Great Expectations · Tableau |
 
 ---
 
