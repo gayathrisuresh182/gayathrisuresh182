@@ -37,7 +37,7 @@ I build end-to-end AI systems and ship them to users, from data ingestion to con
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| **[Legal Document RAG Pipeline](https://github.com/gayathrisuresh182/legal-rag-pipeline)** | Multi-hop retrieval over SEC EDGAR contracts with 9-version metric-driven iteration | LangGraph · Qdrant · FastAPI · Next.js · Redis · Prometheus · Docker |
+| **[Legal Document RAG Pipeline](https://github.com/gayathrisuresh182/Legal-Document-Rag-Pipeline)** | Multi-hop retrieval over SEC EDGAR contracts with 9-version metric-driven iteration | LangGraph · Qdrant · FastAPI · Next.js · Redis · Prometheus · Docker |
 | **[E-Commerce AI Operations Platform](https://github.com/gayathrisuresh182/-E-COMMERCE-STREAMING-ANALYTICS-PLATFORM)** | Lambda architecture with a conversational AI agent (11 tools) for natural-language analytics | Kafka · Dagster · BigQuery · MongoDB · LangGraph · React |
 | **[Healthcare ELT Pipeline](https://github.com/gayathrisuresh182/HealthCare_Analytics_Platform)** | Medallion architecture processing 160K+ CMS Medicare records with 97.7% test pass rate | Snowflake · dbt · AWS S3 · Great Expectations · Tableau |
 
